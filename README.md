@@ -4,3 +4,8 @@
 运行开始时
 
 ![开始界面](https://github.com/stronglxp/imageGame/blob/master/result/imagegame.JPG)
+
+
+拼图成功
+
+![拼图成功](https://github.com/stronglxp/imageGame/blob/master/result/image.JPG)
